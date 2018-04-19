@@ -1,0 +1,88 @@
+
+----------------------------------------------
+
+TABLAS
+
+paciente
+id_cliente
+nit_cliente
+nombre_cliente
+apellido_cliente
+direccion_cliente
+ciudad_cliente
+pais_cliente
+telefono_cliente
+correo_cliente
+edad_cliente
+id_alergia
+
+alergias_cliente
+id_alergia
+descrip_alergia
+
+enfermedades
+id_enfermedad 
+descrip_enfer 
+
+movimientos_de_clientes
+id_mov_cliente
+cod_transaccion
+id_cliente
+total_cobro
+saldo
+fecha
+fecha_vencimiento
+actual
+
+transaccional_cliente
+cod_transaccion
+descripcion
+accion
+
+
+
+--------------------------------------------
+
+VISTAS
+
+Vpaciente
+id_cliente CODIGO
+nit_cliente NIT
+nombre_cliente NOMBRE
+apellido_cliente APELLIDO
+direccion_cliente DIR
+ciudad_cliente CIUDAD
+pais_cliente PAIS
+telefono_cliente TELEFONO
+correo_cliente CORREO
+edad_cliente EDAD 
+id_alergia COD_ALERGIA
+
+Valergias_cliente
+id_alergia CODIGO
+descrip_alergia DESCRIPCION
+
+Venfermedades
+id_enfermedad CODIGO
+descrip_enfer DESCRIPCION
+
+Vtransaccional_cliente
+cod_transaccion CODIGO
+descripcion DESCRIPCION 
+accion ACCION
+
+Vmovimientos_de_clientes
+id_mov_cliente ID
+cod_transaccion COD_TRANS
+id_cliente COD_CLIENTE
+total_cobro TOTAL
+saldo SALDO
+fecha FECHA1
+fecha_vencimiento FECHA2
+actual ACTUAL
+
+
+
+
+
+
