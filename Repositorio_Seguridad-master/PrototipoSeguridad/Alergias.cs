@@ -9,6 +9,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+//Formulario realizado por Kimberly Alejandra Rivera Gonzalez
+//En primer semestre 2018 en Ingenieria de Software
+
 namespace PrototipoSeguridad
 {
     public partial class Alergias : Form
@@ -120,6 +123,16 @@ namespace PrototipoSeguridad
                     }
                     break;
             }
+
+            //COPIAR DESDE ACA
+                        foreach (Control _textbox in this.Controls)
+                            {
+                                if (_textbox is TextBox)
+                                {
+                                    _textbox.Text = ""; // Eliminar el texto del TextBox
+                                }
+                            }
+            // HASTA ACA COPIAR
         }
 
         private void navegador1_NavEliminar(object sender, EventArgs e)
@@ -190,6 +203,9 @@ namespace PrototipoSeguridad
         {
         }
 
+        private void navegador1_Load_1(object sender, EventArgs e)
+        {
 
+        }
     }
 }

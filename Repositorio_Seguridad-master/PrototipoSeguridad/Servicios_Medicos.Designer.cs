@@ -37,10 +37,14 @@
             this.alergiasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.enfermedadesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.transaccionalDeProveedoresToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.proveedoresToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.medicosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.inventarioDeEquipoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.reportesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.seguridadToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.administracionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.proveedoresToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.ayudaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.cerrarSesiónToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -50,7 +54,9 @@
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.serviciosMedicosToolStripMenuItem,
             this.reportesToolStripMenuItem,
-            this.seguridadToolStripMenuItem});
+            this.seguridadToolStripMenuItem,
+            this.ayudaToolStripMenuItem,
+            this.cerrarSesiónToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(1297, 28);
@@ -73,7 +79,9 @@
             this.alergiasToolStripMenuItem,
             this.enfermedadesToolStripMenuItem,
             this.transaccionalDeProveedoresToolStripMenuItem,
-            this.proveedoresToolStripMenuItem});
+            this.proveedoresToolStripMenuItem,
+            this.medicosToolStripMenuItem,
+            this.inventarioDeEquipoToolStripMenuItem});
             this.mantenimientosToolStripMenuItem.Name = "mantenimientosToolStripMenuItem";
             this.mantenimientosToolStripMenuItem.Size = new System.Drawing.Size(191, 26);
             this.mantenimientosToolStripMenuItem.Text = "Mantenimientos";
@@ -114,6 +122,27 @@
             this.transaccionalDeProveedoresToolStripMenuItem.Text = "Transaccional de proveedores";
             this.transaccionalDeProveedoresToolStripMenuItem.Click += new System.EventHandler(this.transaccionalDeProveedoresToolStripMenuItem_Click);
             // 
+            // proveedoresToolStripMenuItem
+            // 
+            this.proveedoresToolStripMenuItem.Name = "proveedoresToolStripMenuItem";
+            this.proveedoresToolStripMenuItem.Size = new System.Drawing.Size(281, 26);
+            this.proveedoresToolStripMenuItem.Text = "Proveedores";
+            this.proveedoresToolStripMenuItem.Click += new System.EventHandler(this.proveedoresToolStripMenuItem_Click);
+            // 
+            // medicosToolStripMenuItem
+            // 
+            this.medicosToolStripMenuItem.Name = "medicosToolStripMenuItem";
+            this.medicosToolStripMenuItem.Size = new System.Drawing.Size(281, 26);
+            this.medicosToolStripMenuItem.Text = "Medicos";
+            this.medicosToolStripMenuItem.Click += new System.EventHandler(this.medicosToolStripMenuItem_Click);
+            // 
+            // inventarioDeEquipoToolStripMenuItem
+            // 
+            this.inventarioDeEquipoToolStripMenuItem.Name = "inventarioDeEquipoToolStripMenuItem";
+            this.inventarioDeEquipoToolStripMenuItem.Size = new System.Drawing.Size(281, 26);
+            this.inventarioDeEquipoToolStripMenuItem.Text = "Inventario de equipo";
+            this.inventarioDeEquipoToolStripMenuItem.Click += new System.EventHandler(this.inventarioDeEquipoToolStripMenuItem_Click);
+            // 
             // reportesToolStripMenuItem
             // 
             this.reportesToolStripMenuItem.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("reportesToolStripMenuItem.BackgroundImage")));
@@ -137,12 +166,19 @@
             this.administracionToolStripMenuItem.Text = "Administracion";
             this.administracionToolStripMenuItem.Click += new System.EventHandler(this.administracionToolStripMenuItem_Click);
             // 
-            // proveedoresToolStripMenuItem
+            // ayudaToolStripMenuItem
             // 
-            this.proveedoresToolStripMenuItem.Name = "proveedoresToolStripMenuItem";
-            this.proveedoresToolStripMenuItem.Size = new System.Drawing.Size(281, 26);
-            this.proveedoresToolStripMenuItem.Text = "Proveedores";
-            this.proveedoresToolStripMenuItem.Click += new System.EventHandler(this.proveedoresToolStripMenuItem_Click);
+            this.ayudaToolStripMenuItem.Name = "ayudaToolStripMenuItem";
+            this.ayudaToolStripMenuItem.Size = new System.Drawing.Size(63, 24);
+            this.ayudaToolStripMenuItem.Text = "Ayuda";
+            this.ayudaToolStripMenuItem.Click += new System.EventHandler(this.ayudaToolStripMenuItem_Click);
+            // 
+            // cerrarSesiónToolStripMenuItem
+            // 
+            this.cerrarSesiónToolStripMenuItem.Name = "cerrarSesiónToolStripMenuItem";
+            this.cerrarSesiónToolStripMenuItem.Size = new System.Drawing.Size(108, 24);
+            this.cerrarSesiónToolStripMenuItem.Text = "Cerrar Sesión";
+            this.cerrarSesiónToolStripMenuItem.Click += new System.EventHandler(this.cerrarSesiónToolStripMenuItem_Click);
             // 
             // Servicios_Medicos
             // 
@@ -180,5 +216,9 @@
         private System.Windows.Forms.ToolStripMenuItem enfermedadesToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem transaccionalDeProveedoresToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem proveedoresToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem ayudaToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem medicosToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem inventarioDeEquipoToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem cerrarSesiónToolStripMenuItem;
     }
 }

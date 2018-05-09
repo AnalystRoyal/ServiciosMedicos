@@ -1,4 +1,5 @@
-﻿using System;
+﻿//Raul Portillo Mayo 2018 
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -17,7 +18,8 @@ namespace PrototipoSeguridad
         {
             InitializeComponent();
         }
-
+        //Codigo para cargar datos de la tabla transacciones de proveedores
+        //al momento de abrir la ventana
         private void Tran_Proveedores_Load(object sender, EventArgs e)
         {
             try
@@ -38,7 +40,8 @@ namespace PrototipoSeguridad
                 MessageBox.Show(ex.Message);
             }
         }
-
+        //Boton ingresar en le navegador para ingresar un registro nuevo 
+        //automaticamente coloca el siguiente id que se ingresara
         private void button1_Click(object sender, EventArgs e)
         {
             int cod1;
@@ -55,8 +58,8 @@ namespace PrototipoSeguridad
                 int cod2 = cod1 + 1;
                 Mantenimiento_proveedor mov = new Mantenimiento_proveedor();
                 mov.Show();
-                mov.label6.Text = cod2.ToString();
-                mov.label6.Visible = true;
+                mov.primarykey.Text = cod2.ToString();
+                mov.primarykey.Enabled = false;
             }
          
         }
@@ -65,12 +68,13 @@ namespace PrototipoSeguridad
         {
            
         }
-
+        //Evento doble clic del grid para pasar los datos de la fila al form de 
+        //mantenimiento de transacciones para poder editar el registro
         private void Dgv_trans_prov_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
         {
             Mantenimiento_proveedor mov = new Mantenimiento_proveedor();
-            mov.label6.Text = Dgv_trans_prov.CurrentRow.Cells[0].Value.ToString();
-            mov.label6.Visible = true;
+            mov.primarykey.Text = Dgv_trans_prov.CurrentRow.Cells[0].Value.ToString();
+            mov.primarykey.Enabled = false;
             mov.textBox1.Text = Dgv_trans_prov.CurrentRow.Cells[1].Value.ToString();
             mov.textBox2.Text = Dgv_trans_prov.CurrentRow.Cells[2].Value.ToString();
             mov.Show();
@@ -95,22 +99,22 @@ namespace PrototipoSeguridad
                 cod1 = (int)myreader3["id_tranproveedor"];
                 int cod2 = cod1 + 1;
 
-                mov.label6.Text = cod2.ToString();
-                mov.label6.Visible = true;
+                mov.primarykey.Text = cod2.ToString();
+                mov.primarykey.Enabled = false;
             }
             mov.Show();
         }
-
+        //Para moverse al primer registro del grid
         private void button2_Click(object sender, EventArgs e)
         {
             Dgv_trans_prov.CurrentCell = Dgv_trans_prov.Rows[0].Cells[1];
         }
-
+        //Para moverse al ultimo registro del grid
         private void button3_Click(object sender, EventArgs e)
         {
             Dgv_trans_prov.FirstDisplayedScrollingRowIndex = Dgv_trans_prov.RowCount - 1;
         }
-
+        //cerrar la ventana
         private void button4_Click(object sender, EventArgs e)
         {
             this.Close();

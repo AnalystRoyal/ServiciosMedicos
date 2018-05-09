@@ -9,6 +9,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+//Formulario realizado por Kimberly Alejandra Rivera Gonzalez
+//En primer semestre 2018 en Ingenieria de Software
+
 namespace PrototipoSeguridad
 {
     public partial class Vista_paciente : Form
@@ -16,9 +19,10 @@ namespace PrototipoSeguridad
         public Vista_paciente()
         {
             InitializeComponent();
-            llenarTablaM();
+            llenarTablaM();  // inicializamos el componente con llenar la tabla de los datos ya ingresados en la BD
         }
 
+        // se crea la sentencia a la conexión a la BD
         string MyConnection2 = "Driver ={ MySQL ODBC 3.51 Driver }; Dsn=servidor_seguridad; UID=root; PWD = ;  ";
 
         // llena una tabla al iniciar con los datos de una vista realizada en la base de datos
@@ -53,15 +57,15 @@ namespace PrototipoSeguridad
 
         private void Vista_paciente_Load(object sender, EventArgs e)
         {
-            llenarTablaM();
+            llenarTablaM(); // cada vez que se vuelva a cargar el formulario se llenará el datagrid con los datos
         }
 
 
 
         private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
         {
-            string columna = dataGridView1.CurrentCell.RowIndex.ToString();//selecciona numero de columna
-            int columna_id = Convert.ToInt32(columna);
+            string columna = dataGridView1.CurrentCell.RowIndex.ToString(); //selecciona numero de columna
+            int columna_id = Convert.ToInt32(columna); // convierte el numero de colunma
 
             //MessageBox.Show(dataGridView1.Rows[columna_id].Cells[0].Value.ToString());  
 
@@ -69,7 +73,7 @@ namespace PrototipoSeguridad
 
         private void dataGridView1_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
         {
-            
+            // al darle doble clic a cualquier celda, se llevarán los datos del datagrid al siguiente formulario
             Paciente paci = new Paciente();
             paci.MdiParent = this.MdiParent;
             int cod1, cod2, cod3, cod4, cod5;
@@ -118,7 +122,8 @@ namespace PrototipoSeguridad
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            // al presionar el boton guardar lo que hará es verificar el ultimo codigo ingresado y 
+            // y sumarle 1, para que en el siguiente formulario aparezca ya el codigo que sigue
             Paciente paci = new Paciente();
             paci.MdiParent = this.MdiParent;
 
@@ -144,21 +149,21 @@ namespace PrototipoSeguridad
 
         private void Vista_paciente_Click(object sender, EventArgs e)
         {
-            llenarTablaM();
+            llenarTablaM(); // cada vez que se vuelva a cargar el formulario se llenará el datagrid con los datos
         }
 
         private void button1_Click_1(object sender, EventArgs e)
-        {
+        { // se utilizo para poder tomar la primer celda del datagrid
             dataGridView1.CurrentCell = dataGridView1.Rows[0].Cells[1];
         }
 
         private void button3_Click(object sender, EventArgs e)
-        {
+        { // se utilizo para poder tomar la ultima celda del datagrid
             dataGridView1.FirstDisplayedScrollingRowIndex = dataGridView1.RowCount - 1;
         }
 
         private void button4_Click(object sender, EventArgs e)
-        {
+        { // cierra formulario
             this.Close();
         }
 

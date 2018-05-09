@@ -89,7 +89,7 @@ namespace PrototipoSeguridad
             }
             Servicios_Medicos service = new Servicios_Medicos();
             service.Show();
-            Login login = new Login();
+            Login2 login = new Login2();
             login.Show();
         }
 

@@ -33,7 +33,7 @@ namespace PrototipoSeguridad
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Servicios_Medicos());
+            Application.Run(new Login());
         }
     }
 }

@@ -780,3 +780,286 @@ C:\Users\kimbe\Desktop\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Se
 C:\Users\kimbe\Desktop\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Vista_paciente.resources
 C:\Users\kimbe\Desktop\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Vista_trans_cliente.resources
 C:\Users\kimbe\Desktop\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.csproj.GenerateResource.Cache
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.exe.config
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.exe
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.pdb
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.exe
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.pdb
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\FlashControlV71.dll
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\MySql.Data.dll
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\dllconnectionDatabase.dll
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\stdole.dll
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\AdministradorDeReportes.pdb
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\dllReporte.pdb
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\dll_bitacora.pdb
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\MySql.Data.xml
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\Navegador.pdb
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\dllconnectionDatabase.pdb
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.csprojResolveAssemblyReference.cache
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Enfermedades.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Alergias.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Aplicaciones2.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.AsignacionaPerfiles.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\dll_bitacora.bitac.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Bitacora.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.BitacoraForm.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.CambioContraseña.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Clientess.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.MantenimientoProveedores.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Mantenimiento_proveedor.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.GenerarReporte.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.GenerarReporteUsuario.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Login.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Frm_MantenimientoApp.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Perfiles.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\Perfiles_usuario.PerfilesUsuario.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\Perfiles_usuario.Perfiles_Usuario.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Principal.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Properties.Resources.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Proveedores.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteBitacora.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idapp.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idcons.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idelimina.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idimp.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_iding.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idmod.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idusuario.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDUP_ididusuario.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDUP_idperfil.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDUP_idusuario.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidaccion.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidaplicacion.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidbitacora.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteiderror.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidfecha.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidip.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidrangos.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidresultado.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidusuario.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idapellido.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idcorreo.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idnombre.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idnusuario.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idtel.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idusuario.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporte_Idbitacora.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Servicios_Medicos.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Paciente.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Trans_cliente.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Tran_Proveedores.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Usuarios.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Vista_enfermedades.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Vista_alergias.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Vista_paciente.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Vista_trans_cliente.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.csproj.GenerateResource.Cache
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.VistaDoctores.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.VentanaDoctores.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.VentanaInventarioEquipo.resources
+C:\Users\kimbe\Desktop\Servicios Medicos - Copy\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.VistaInvEquipo.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.exe.config
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.exe
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.pdb
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.exe
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.pdb
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\FlashControlV71.dll
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\MySql.Data.dll
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\dllconnectionDatabase.dll
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\ShockwaveFlashObjects.dll
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\stdole.dll
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\AdministradorDeReportes.pdb
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\dllReporte.pdb
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\dll_bitacora.pdb
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\MySql.Data.xml
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\Navegador.pdb
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\dllconnectionDatabase.pdb
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.csprojResolveAssemblyReference.cache
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.csproj.PrototipoSeguridad.exe.config
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Enfermedades.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Alergias.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Aplicaciones2.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.AsignacionaPerfiles.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\dll_bitacora.bitac.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Bitacora.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.BitacoraForm.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.CambioContraseña.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Clientess.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.MantenimientoProveedores.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Mantenimiento_proveedor.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.GenerarReporte.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.GenerarReporteUsuario.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Login.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Frm_MantenimientoApp.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Perfiles.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\Perfiles_usuario.PerfilesUsuario.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\Perfiles_usuario.Perfiles_Usuario.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Principal.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Properties.Resources.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Proveedores.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteBitacora.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idapp.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idcons.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idelimina.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idimp.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_iding.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idmod.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idusuario.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDUP_ididusuario.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDUP_idperfil.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDUP_idusuario.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidaccion.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidaplicacion.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidbitacora.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteiderror.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidfecha.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidip.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidrangos.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidresultado.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidusuario.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idapellido.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idcorreo.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idnombre.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idnusuario.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idtel.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idusuario.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporte_Idbitacora.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Servicios_Medicos.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Paciente.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Trans_cliente.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Tran_Proveedores.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Usuarios.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.VentanaDoctores.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.VentanaInventarioEquipo.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.VistaDoctores.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.VistaInvEquipo.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Vista_enfermedades.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Vista_alergias.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Vista_paciente.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Vista_trans_cliente.resources
+d:\Users\Raul\Desktop\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.csproj.GenerateResource.Cache
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.exe.config
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.exe
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.pdb
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.exe
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.pdb
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\FlashControlV71.dll
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\MySql.Data.dll
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\dllconnectionDatabase.dll
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\stdole.dll
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\AdministradorDeReportes.pdb
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\dllReporte.pdb
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\dll_bitacora.pdb
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\MySql.Data.xml
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\Navegador.pdb
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\dllconnectionDatabase.pdb
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.csprojResolveAssemblyReference.cache
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Enfermedades.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Alergias.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Aplicaciones2.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.AsignacionaPerfiles.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\dll_bitacora.bitac.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Bitacora.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.BitacoraForm.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.CambioContraseña.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Clientess.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.MantenimientoProveedores.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Mantenimiento_proveedor.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.GenerarReporte.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.GenerarReporteUsuario.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Login.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Frm_MantenimientoApp.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Perfiles.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\Perfiles_usuario.PerfilesUsuario.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\Perfiles_usuario.Perfiles_Usuario.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Principal.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Properties.Resources.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Proveedores.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteBitacora.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idapp.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idcons.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idelimina.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idimp.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_iding.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idmod.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idusuario.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDUP_ididusuario.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDUP_idperfil.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDUP_idusuario.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidaccion.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidaplicacion.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidbitacora.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteiderror.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidfecha.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidip.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidrangos.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidresultado.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidusuario.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idapellido.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idcorreo.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idnombre.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idnusuario.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idtel.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idusuario.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporte_Idbitacora.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Servicios_Medicos.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Paciente.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Trans_cliente.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Tran_Proveedores.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Usuarios.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.VentanaDoctores.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.VentanaInventarioEquipo.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.VistaDoctores.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.VistaInvEquipo.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Vista_enfermedades.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Vista_alergias.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Vista_paciente.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Vista_trans_cliente.resources
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.csproj.GenerateResource.Cache
+C:\Users\kimbe\Desktop\Alo\Alo\Servicios Medicos\Servicios-Medico-Oficial\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Login2.resources

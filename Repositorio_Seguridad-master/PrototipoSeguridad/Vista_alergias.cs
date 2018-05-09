@@ -9,22 +9,25 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+//Formulario realizado por Kimberly Alejandra Rivera Gonzalez
+//En primer semestre 2018 en Ingenieria de Software
+
 namespace PrototipoSeguridad
 {
     public partial class Vista_alergias : Form
     {
         public Vista_alergias()
         {
-            InitializeComponent();
-            llenarTablaM();
+            InitializeComponent();   
+            llenarTablaM();  // inicializamos el componente con llenar la tabla de los datos ya ingresados en la BD
         }
 
         private void Vista_alergias_Load(object sender, EventArgs e)
         {
-            llenarTablaM();
+            llenarTablaM(); // cada vez que se vuelva a cargar el formulario se llenará el datagrid con los datos
         }
 
-
+        // se crea la sentencia a la conexión a la BD
         string MyConnection2 = "Driver ={ MySQL ODBC 3.51 Driver }; Dsn=servidor_seguridad; UID=root; PWD = ;  ";
 
         // llena una tabla al iniciar con los datos de una vista realizada en la base de datos
@@ -50,7 +53,8 @@ namespace PrototipoSeguridad
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            // al presionar el boton guardar lo que hará es verificar el ultimo codigo ingresado y 
+            // y sumarle 1, para que en el siguiente formulario aparezca ya el codigo que sigue
             Alergias aler = new Alergias();
             aler.MdiParent = this.MdiParent;
 
@@ -75,25 +79,25 @@ namespace PrototipoSeguridad
         }
 
         private void button1_Click(object sender, EventArgs e)
-        {
+        { // se utilizo para poder tomar la primer celda del datagrid
             dataGridView1.CurrentCell = dataGridView1.Rows[0].Cells[1];
         }
 
         private void button3_Click(object sender, EventArgs e)
-        {
+        {  // se utilizo para poder tomar la ultima celda del datagrid
             dataGridView1.FirstDisplayedScrollingRowIndex = dataGridView1.RowCount - 1;
         }
 
         private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
-        {
-            string columna = dataGridView1.CurrentCell.RowIndex.ToString();//selecciona numero de columna
-            int columna_id = Convert.ToInt32(columna);
+        { 
+            string columna = dataGridView1.CurrentCell.RowIndex.ToString();  //selecciona numero de columna
+            int columna_id = Convert.ToInt32(columna); // convierte el numero de colunma
 
         }
 
         private void dataGridView1_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
         {
-
+            // al darle doble clic a cualquier celda, se llevarán los datos del datagrid al siguiente formulario
             Alergias alerg = new Alergias();
             alerg.MdiParent = this.MdiParent;
             int cod1;
@@ -122,14 +126,20 @@ namespace PrototipoSeguridad
             alerg.Show();
         }
 
+        // al presionar el formulario se refresca y llena el datagrid con los datos actualizados
         private void Vista_alergias_Click(object sender, EventArgs e)
         {
             llenarTablaM();
         }
 
         private void button4_Click(object sender, EventArgs e)
-        {
+        { // cierra formulario
             this.Close();
+        }
+
+        private void navegador1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

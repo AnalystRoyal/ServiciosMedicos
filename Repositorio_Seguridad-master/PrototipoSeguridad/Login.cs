@@ -40,7 +40,7 @@ namespace PrototipoSeguridad
             {
                 string id_usuario;
                 int id = 0;
-                com = new OdbcCommand("select id_usuario from usuario where usuario='" + txt_usuario.Text + "' and AES_DECRYPT(contrasena,'password')='" + txt_contraseña.Text + "' ", con.conexion());
+                com = new OdbcCommand("select id_usuario from usuario_sm where usuario='" + txt_usuario.Text + "' and AES_DECRYPT(contrasena,'password')='" + txt_contraseña.Text + "' ", con.conexion());
                 dr = com.ExecuteReader();
                 Globales.nom_usuario = txt_usuario.Text.ToString();
 
@@ -53,7 +53,7 @@ namespace PrototipoSeguridad
 
                 if (id != 0)
                 {
-                    Principal prin = new Principal();
+                    Servicios_Medicos prin = new Servicios_Medicos();
                     prin.Show();
                     this.Hide();
                 }
@@ -71,6 +71,11 @@ namespace PrototipoSeguridad
                 MessageBox.Show("Usuario y/o Contraseña incorrecta."+ex.ToString());
             }
            // MessageBox.Show(Globales.nom_usuario);
-        }    
+        }
+
+        private void Login_Load_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }

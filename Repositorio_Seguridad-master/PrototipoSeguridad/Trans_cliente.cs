@@ -8,6 +8,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+//Formulario realizado por Kimberly Alejandra Rivera Gonzalez
+//En primer semestre 2018 en Ingenieria de Software
+
 namespace PrototipoSeguridad
 {
     public partial class Trans_cliente : Form
@@ -16,10 +19,6 @@ namespace PrototipoSeguridad
         {
             InitializeComponent();
         }
-
-       // string MyConnection2 = "Driver ={ MySQL ODBC 3.51 Driver }; Dsn=servidor_seguridad; UID=root; PWD = ; ";
-
-
 
         public struct tipoRegistro
         {

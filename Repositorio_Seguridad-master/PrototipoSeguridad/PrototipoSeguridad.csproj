@@ -147,6 +147,12 @@
       <DependentUpon>CrystalReportBitacora.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
     <Compile Include="MantenimientoProveedores.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -171,11 +177,11 @@
     <Compile Include="GenerarReporteUsuario.designer.cs">
       <DependentUpon>GenerarReporteUsuario.cs</DependentUpon>
     </Compile>
-    <Compile Include="Login.cs">
+    <Compile Include="Login2.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Login.Designer.cs">
-      <DependentUpon>Login.cs</DependentUpon>
+    <Compile Include="Login2.Designer.cs">
+      <DependentUpon>Login2.cs</DependentUpon>
     </Compile>
     <Compile Include="MantenimientoApp.cs">
       <SubType>Form</SubType>
@@ -569,6 +575,30 @@
     <Compile Include="Usuarios.designer.cs">
       <DependentUpon>Usuarios.cs</DependentUpon>
     </Compile>
+    <Compile Include="VentanaDoctores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaDoctores.designer.cs">
+      <DependentUpon>VentanaDoctores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaInventarioEquipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaInventarioEquipo.designer.cs">
+      <DependentUpon>VentanaInventarioEquipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VistaDoctores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VistaDoctores.designer.cs">
+      <DependentUpon>VistaDoctores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VistaInvEquipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VistaInvEquipo.designer.cs">
+      <DependentUpon>VistaInvEquipo.cs</DependentUpon>
+    </Compile>
     <Compile Include="Vista_enfermedades.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -624,6 +654,9 @@
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>CrystalReportBitacora.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="MantenimientoProveedores.resx">
       <DependentUpon>MantenimientoProveedores.cs</DependentUpon>
     </EmbeddedResource>
@@ -636,8 +669,8 @@
     <EmbeddedResource Include="GenerarReporteUsuario.resx">
       <DependentUpon>GenerarReporteUsuario.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Login.resx">
-      <DependentUpon>Login.cs</DependentUpon>
+    <EmbeddedResource Include="Login2.resx">
+      <DependentUpon>Login2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MantenimientoApp.resx">
       <DependentUpon>MantenimientoApp.cs</DependentUpon>
@@ -890,6 +923,18 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Usuarios.resx">
       <DependentUpon>Usuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaDoctores.resx">
+      <DependentUpon>VentanaDoctores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaInventarioEquipo.resx">
+      <DependentUpon>VentanaInventarioEquipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VistaDoctores.resx">
+      <DependentUpon>VistaDoctores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VistaInvEquipo.resx">
+      <DependentUpon>VistaInvEquipo.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Vista_enfermedades.resx">
       <DependentUpon>Vista_enfermedades.cs</DependentUpon>

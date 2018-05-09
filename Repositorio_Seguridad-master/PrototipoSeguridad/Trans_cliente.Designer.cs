@@ -42,7 +42,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(759, 154);
+            this.label2.Location = new System.Drawing.Point(296, 34);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(464, 32);
             this.label2.TabIndex = 33;
@@ -50,9 +50,10 @@
             // 
             // descripcion
             // 
-            this.descripcion.Location = new System.Drawing.Point(971, 467);
+            this.descripcion.Location = new System.Drawing.Point(482, 262);
+            this.descripcion.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.descripcion.Name = "descripcion";
-            this.descripcion.Size = new System.Drawing.Size(142, 22);
+            this.descripcion.Size = new System.Drawing.Size(143, 22);
             this.descripcion.TabIndex = 25;
             this.descripcion.Tag = "descripcion";
             this.descripcion.TextChanged += new System.EventHandler(this.descripcion_TextChanged);
@@ -60,7 +61,7 @@
             // Lbl_des
             // 
             this.Lbl_des.AutoSize = true;
-            this.Lbl_des.Location = new System.Drawing.Point(853, 467);
+            this.Lbl_des.Location = new System.Drawing.Point(364, 262);
             this.Lbl_des.Name = "Lbl_des";
             this.Lbl_des.Size = new System.Drawing.Size(86, 17);
             this.Lbl_des.TabIndex = 1;
@@ -70,7 +71,7 @@
             // Lbl_accion
             // 
             this.Lbl_accion.AutoSize = true;
-            this.Lbl_accion.Location = new System.Drawing.Point(883, 518);
+            this.Lbl_accion.Location = new System.Drawing.Point(394, 314);
             this.Lbl_accion.Name = "Lbl_accion";
             this.Lbl_accion.Size = new System.Drawing.Size(58, 17);
             this.Lbl_accion.TabIndex = 3;
@@ -84,9 +85,10 @@
             this.accion.Items.AddRange(new object[] {
             "+",
             "-"});
-            this.accion.Location = new System.Drawing.Point(971, 518);
+            this.accion.Location = new System.Drawing.Point(482, 314);
+            this.accion.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.accion.Name = "accion";
-            this.accion.Size = new System.Drawing.Size(142, 24);
+            this.accion.Size = new System.Drawing.Size(143, 24);
             this.accion.TabIndex = 24;
             this.accion.Tag = "accion";
             this.accion.Text = "-Seleccionar-";
@@ -95,7 +97,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(883, 423);
+            this.label1.Location = new System.Drawing.Point(394, 219);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(56, 17);
             this.label1.TabIndex = 26;
@@ -104,8 +106,8 @@
             // navegador1
             // 
             this.navegador1.BackColor = System.Drawing.Color.Gainsboro;
-            this.navegador1.Location = new System.Drawing.Point(523, 265);
-            this.navegador1.Margin = new System.Windows.Forms.Padding(4);
+            this.navegador1.Location = new System.Drawing.Point(41, 98);
+            this.navegador1.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.navegador1.Name = "navegador1";
             this.navegador1.sAppNumero = "6";
             this.navegador1.Size = new System.Drawing.Size(900, 82);
@@ -129,9 +131,10 @@
             // 
             // primarykey
             // 
-            this.primarykey.Location = new System.Drawing.Point(971, 418);
+            this.primarykey.Location = new System.Drawing.Point(482, 214);
+            this.primarykey.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.primarykey.Name = "primarykey";
-            this.primarykey.Size = new System.Drawing.Size(142, 22);
+            this.primarykey.Size = new System.Drawing.Size(143, 22);
             this.primarykey.TabIndex = 27;
             this.primarykey.Tag = "cod_transaccion";
             // 
@@ -139,7 +142,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1924, 933);
+            this.BackColor = System.Drawing.Color.PapayaWhip;
+            this.ClientSize = new System.Drawing.Size(996, 374);
             this.Controls.Add(this.primarykey);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.navegador1);
@@ -148,10 +152,10 @@
             this.Controls.Add(this.Lbl_des);
             this.Controls.Add(this.accion);
             this.Controls.Add(this.Lbl_accion);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "Trans_cliente";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Mantenimiento Transacciones Paciente";
-            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.Trans_cliente_Load_1);
             this.ResumeLayout(false);
             this.PerformLayout();

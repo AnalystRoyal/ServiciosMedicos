@@ -19,7 +19,7 @@ namespace PrototipoSeguridad
 
         private void administracionToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Login us = new Login();
+            Login2 us = new Login2();
 
             us.MdiParent = this;
             us.Show();
@@ -75,6 +75,39 @@ namespace PrototipoSeguridad
             Proveedores newMDIChild = new Proveedores();
             newMDIChild.MdiParent = this;
             newMDIChild.Show();
+        }
+
+        private void ayudaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Help.ShowHelp(this, "C:\\Users\\kimbe\\Desktop\\Servicios Medicos - Copy\\Servicios-Medico-Oficial\\Ayuda\\ManualUsuarioMantenimientos.chm");
+        }
+
+        private void medicosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            VistaDoctores newMDIChild = new VistaDoctores();
+            newMDIChild.MdiParent = this;
+            newMDIChild.Show();
+        }
+
+        private void inventarioDeEquipoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            VistaInvEquipo newMDIChild = new VistaInvEquipo();
+            newMDIChild.MdiParent = this;
+            newMDIChild.Show();
+        }
+
+        private void cerrarSesiónToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormCollection formulariosApp = Application.OpenForms;
+            foreach (Form f in formulariosApp)
+            {
+                if (f.Name != "frmLogin")
+                {
+                    f.Hide();
+                }
+            }
+            Login login = new Login();
+            login.Show();
         }
     }
 }

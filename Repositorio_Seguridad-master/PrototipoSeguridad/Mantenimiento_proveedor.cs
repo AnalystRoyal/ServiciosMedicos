@@ -1,4 +1,5 @@
-﻿using System;
+﻿//Raul Portillo Mayo 2018
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -17,7 +18,7 @@ namespace PrototipoSeguridad
             InitializeComponent();
         }
 
-
+        //Codigo para el funcionamiento del navegador con todos sus eventos
        public struct tipoRegistro
         {
             public int no;

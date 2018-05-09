@@ -38,7 +38,7 @@
             // 
             // primarykey
             // 
-            this.primarykey.Location = new System.Drawing.Point(1011, 411);
+            this.primarykey.Location = new System.Drawing.Point(517, 216);
             this.primarykey.Name = "primarykey";
             this.primarykey.Size = new System.Drawing.Size(142, 22);
             this.primarykey.TabIndex = 39;
@@ -47,7 +47,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(923, 416);
+            this.label1.Location = new System.Drawing.Point(429, 221);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(56, 17);
             this.label1.TabIndex = 38;
@@ -56,8 +56,8 @@
             // navegador1
             // 
             this.navegador1.BackColor = System.Drawing.Color.Gainsboro;
-            this.navegador1.Location = new System.Drawing.Point(513, 255);
-            this.navegador1.Margin = new System.Windows.Forms.Padding(4);
+            this.navegador1.Location = new System.Drawing.Point(38, 85);
+            this.navegador1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.navegador1.Name = "navegador1";
             this.navegador1.sAppNumero = "6";
             this.navegador1.Size = new System.Drawing.Size(900, 82);
@@ -77,12 +77,13 @@
             this.navegador1.NavSiguiente += new System.EventHandler(this.navegador1_NavSiguiente);
             this.navegador1.NavFin += new System.EventHandler(this.navegador1_NavFin);
             this.navegador1.NavSalir += new System.EventHandler(this.navegador1_NavSalir);
+            this.navegador1.Load += new System.EventHandler(this.navegador1_Load_1);
             // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(840, 145);
+            this.label2.Location = new System.Drawing.Point(359, 29);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(378, 32);
             this.label2.TabIndex = 40;
@@ -90,7 +91,7 @@
             // 
             // descripcion
             // 
-            this.descripcion.Location = new System.Drawing.Point(1011, 460);
+            this.descripcion.Location = new System.Drawing.Point(517, 265);
             this.descripcion.Name = "descripcion";
             this.descripcion.Size = new System.Drawing.Size(142, 22);
             this.descripcion.TabIndex = 37;
@@ -99,7 +100,7 @@
             // Lbl_des
             // 
             this.Lbl_des.AutoSize = true;
-            this.Lbl_des.Location = new System.Drawing.Point(893, 460);
+            this.Lbl_des.Location = new System.Drawing.Point(399, 265);
             this.Lbl_des.Name = "Lbl_des";
             this.Lbl_des.Size = new System.Drawing.Size(86, 17);
             this.Lbl_des.TabIndex = 36;
@@ -109,7 +110,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1924, 933);
+            this.BackColor = System.Drawing.Color.PapayaWhip;
+            this.ClientSize = new System.Drawing.Size(996, 331);
             this.Controls.Add(this.primarykey);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.navegador1);
@@ -119,7 +121,6 @@
             this.Name = "Alergias";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Alergias";
-            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.Alergias_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
